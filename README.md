@@ -17,15 +17,15 @@
 
 <h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Aryan Srivastava"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aryan Srivastava" /></a></p>
-<br><br>
 
-<div align="center">
+
+<div align="left">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanayyu&show_icons=true&locale=en&layout=compact" alt="aryanayyu" style="margin-right: 20px;" />
   <img  src="https://github-readme-stats.vercel.app/api?username=aryanayyu&show_icons=true&locale=en" alt="aryanayyu" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="200">
 <br>
-<div>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
